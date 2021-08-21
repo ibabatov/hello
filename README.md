@@ -6,3 +6,5 @@ Add something to practice GitHub flow.
 
 ## Section 02
 Add another section for more practice.
+
+# Thanks for any commits
